@@ -1,12 +1,11 @@
 
-public class Hello {
+public class Hello2 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	System.out.println("Hello World");
-	// test 1
+		// TODO Auto-generated method stub
 
 	}
 
