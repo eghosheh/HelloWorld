@@ -1,11 +1,11 @@
 
-public class Hello {
+public class HELLO3 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-// REBASE
+		// TODO Auto-generated method stub
 
 	}
 
